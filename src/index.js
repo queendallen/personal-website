@@ -11,7 +11,7 @@ const DATA = [
   {id: nanoid(), name: "Portfolio", projType: "personal", skills:["React","HTML", "CSS"], desc:"My website/portfolio", githubLink:"https://github.com/queendallen/queendallen.github.io", link:""},
   {id: nanoid(), name: "Knits N Things", projType: "personal", skills:["React","HTML", "CSS"], desc:"WIP. Mock Ecommerce website dedicated to handmade crochet projects. Note: Not Github Link and No Live", githubLink:"https://github.com/queendallen/knitsnthings", link:""},
   {id: nanoid(), name: "Weather App", projType: "personal", skills:["React", "HTML", "CSS"], desc:"WIP. Gives 3-day forecast for any inputted location", githubLink:"https://github.com/queendallen/weather-app", link:""},
-  {id: nanoid(), name: "Tumblr Themes", projType: "personal", skills:["Vanilla JS","HTML", "CSS"], desc:"Personal blog themes designed for Tumblr users.", githubLink:"https://github.com/queendallen/tumblr-themes", link:"https://fallingforthemes.tumblr.com/tagged/my%3A%20themes"}
+  {id: nanoid(), name: "Tumblr Themes", projType: "personal", skills:["Vanilla JS","HTML", "CSS"], desc:"Personal blog themes designed for Tumblr", githubLink:"https://github.com/queendallen/weather-app", link:"https://fallingforthemes.tumblr.com/tagged/my%3A%20themes"}
 ];
 
 ReactDOM.render(
