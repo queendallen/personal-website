@@ -12,7 +12,7 @@ html {
   100% {transform: translate(0, -0px);}
 }
 
-[class$="-header"], .contactList, .filters{
+[class$="-header"], .contactList, .filters {
   text-align: center;
 }
 
@@ -164,32 +164,28 @@ nav a:hover {
   padding-inline-start: 0px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+@media only screen and (max-width: 1024px) {
+  #projectList {
+    justify-content: space-evenly;
+  }
+
+  #landing {
+    font-size: 30px;
   }
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+@media only screen and (max-width: 375px) {
+  #projects {
+    padding: 0;
   }
-  to {
-    transform: rotate(360deg);
+
+  #projects button {
+    margin: 0 5px;
+  }
+}
+
+@media only screen and (max-width: 320px) {
+  #projects button {
+    margin: 0;
   }
 }

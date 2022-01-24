@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.0999d141.chunk.css",
-    "main.js": "/static/js/main.bd83c222.chunk.js",
-    "main.js.map": "/static/js/main.bd83c222.chunk.js.map",
+    "main.css": "/static/css/main.79768d1d.chunk.css",
+    "main.js": "/static/js/main.3526cbdb.chunk.js",
+    "main.js.map": "/static/js/main.3526cbdb.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.f91e0e29.js",
     "runtime-main.js.map": "/static/js/runtime-main.f91e0e29.js.map",
     "static/js/2.bf5fd479.chunk.js": "/static/js/2.bf5fd479.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.b9797a80.chunk.js": "/static/js/3.b9797a80.chunk.js",
     "static/js/3.b9797a80.chunk.js.map": "/static/js/3.b9797a80.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.0999d141.chunk.css.map": "/static/css/main.0999d141.chunk.css.map",
+    "static/css/main.79768d1d.chunk.css.map": "/static/css/main.79768d1d.chunk.css.map",
     "static/js/2.bf5fd479.chunk.js.LICENSE.txt": "/static/js/2.bf5fd479.chunk.js.LICENSE.txt",
     "static/media/Allen_Resume.93ed2fa2.pdf": "/static/media/Allen_Resume.93ed2fa2.pdf",
     "static/media/App.css": "/static/media/bkgd3.a7949bf5.jpg"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.f91e0e29.js",
     "static/js/2.bf5fd479.chunk.js",
-    "static/css/main.0999d141.chunk.css",
-    "static/js/main.bd83c222.chunk.js"
+    "static/css/main.79768d1d.chunk.css",
+    "static/js/main.3526cbdb.chunk.js"
   ]
 }
