@@ -1,24 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.79768d1d.chunk.css",
-    "main.js": "/static/js/main.3526cbdb.chunk.js",
-    "main.js.map": "/static/js/main.3526cbdb.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.f91e0e29.js",
-    "runtime-main.js.map": "/static/js/runtime-main.f91e0e29.js.map",
-    "static/js/2.bf5fd479.chunk.js": "/static/js/2.bf5fd479.chunk.js",
-    "static/js/2.bf5fd479.chunk.js.map": "/static/js/2.bf5fd479.chunk.js.map",
-    "static/js/3.b9797a80.chunk.js": "/static/js/3.b9797a80.chunk.js",
-    "static/js/3.b9797a80.chunk.js.map": "/static/js/3.b9797a80.chunk.js.map",
+    "main.css": "/static/css/main.29ec84c1.css",
+    "main.js": "/static/js/main.032b8058.js",
+    "static/media/icon.png": "/static/media/icon.c5e1376bac4a5368204d.png",
+    "static/media/binghamtonSAForm.png": "/static/media/binghamtonSAForm.cfe98f69e24e91f59631.png",
+    "static/media/binghamtonTravelForm.png": "/static/media/binghamtonTravelForm.057f1aa47121ce4ab39d.png",
+    "static/media/weatherApp.png": "/static/media/weatherApp.5768a88c8b0b06d1ff53.png",
+    "static/media/Allen_Resume.pdf": "/static/media/Allen_Resume.93ed2fa216445c486006.pdf",
+    "static/media/Mulish-ExtraLight.ttf": "/static/media/Mulish-ExtraLight.e56f05ca8db118d567f5.ttf",
     "index.html": "/index.html",
-    "static/css/main.79768d1d.chunk.css.map": "/static/css/main.79768d1d.chunk.css.map",
-    "static/js/2.bf5fd479.chunk.js.LICENSE.txt": "/static/js/2.bf5fd479.chunk.js.LICENSE.txt",
-    "static/media/Allen_Resume.93ed2fa2.pdf": "/static/media/Allen_Resume.93ed2fa2.pdf",
-    "static/media/App.css": "/static/media/bkgd3.a7949bf5.jpg"
+    "main.29ec84c1.css.map": "/static/css/main.29ec84c1.css.map",
+    "main.032b8058.js.map": "/static/js/main.032b8058.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.f91e0e29.js",
-    "static/js/2.bf5fd479.chunk.js",
-    "static/css/main.79768d1d.chunk.css",
-    "static/js/main.3526cbdb.chunk.js"
+    "static/css/main.29ec84c1.css",
+    "static/js/main.032b8058.js"
   ]
 }

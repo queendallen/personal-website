@@ -3,3 +3,4 @@ settings.json
 *.eslintrc.js
 .prettierrc
 links.json
+.DS_Store
