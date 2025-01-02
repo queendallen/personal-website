@@ -1,7 +1,23 @@
 {
-    "compilerOptions": {
-      "noImplicitAny": true,
-    },
-    "include": ["src/**/*"],
-    "exclude": ["**/*.spec.ts"]
-  }
+  "compilerOptions": {
+    "module": "esnext",
+    "esModuleInterop": true,
+    "noImplicitAny": true,
+    "allowJs": true,
+    "outDir": "./build",
+    "jsx": "react-jsx",
+    "target": "es5",
+    "lib": ["dom", "dom.iterable", "esnext"],
+    "skipLibCheck": true,
+    "allowSyntheticDefaultImports": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "noFallthroughCasesInSwitch": true,
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "noEmit": true
+  },
+  "include": ["src/**/*", "tailwind.config.js"],
+  "exclude": ["**/*.spec.ts", "./build/**/*"]
+}

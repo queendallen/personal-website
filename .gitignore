@@ -1,2 +1,5 @@
 node_modules
 settings.json
+*.eslintrc.js
+.prettierrc
+links.json

@@ -1,7 +1,7 @@
 {
   "name": "personal-website",
   "homepage": "https://queendallen.github.io/",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
@@ -9,7 +9,7 @@
     "gh-pages": "^3.2.3",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-    "react-scripts": "4.0.3"
+    "react-scripts": "^5.0.1"
   },
   "scripts": {
     "predeploy": "npm run build",
@@ -42,11 +42,11 @@
     "@types/react": "^18.3.11",
     "@types/react-dom": "^18.3.0",
     "@typescript-eslint/parser": "^5.62.0",
-    "eslint": "^8.57.1",
     "install": "^0.13.0",
     "npm": "^10.9.0",
     "prettier": "^3.3.3",
     "prettier-eslint": "^16.3.0",
+    "tailwindcss": "^3.4.17",
     "typescript": "^4.9.5"
   }
 }
