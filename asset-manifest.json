@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.29ec84c1.css",
+    "main.js": "/static/js/main.ed25226c.js",
+    "static/media/icon.png": "/static/media/icon.c5e1376bac4a5368204d.png",
+    "static/media/binghamtonSAForm.png": "/static/media/binghamtonSAForm.cfe98f69e24e91f59631.png",
+    "static/media/binghamtonTravelForm.png": "/static/media/binghamtonTravelForm.057f1aa47121ce4ab39d.png",
+    "static/media/weatherApp.png": "/static/media/weatherApp.5768a88c8b0b06d1ff53.png",
+    "static/media/Allen_Resume.pdf": "/static/media/Allen_Resume.93ed2fa216445c486006.pdf",
+    "index.html": "/index.html",
+    "main.29ec84c1.css.map": "/static/css/main.29ec84c1.css.map",
+    "main.ed25226c.js.map": "/static/js/main.ed25226c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29ec84c1.css",
+    "static/js/main.ed25226c.js"
+  ]
+}
