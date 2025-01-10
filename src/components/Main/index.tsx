@@ -49,18 +49,6 @@ const Main = (): JSX.Element => {
         </div>
         <div className="text-center w-4/5 absolute top-2/4 left-2/4 -translate-x-1/2 translate-y-48">
           <p className=" text-2xl mb-8">Welcome! Scroll down for more</p>
-          {/* TODO
-          <div className="flex justify-evenly">
-            {Object.keys(SECTIONS).map((name) => (
-              <button
-                onClick={() => setTab(name)}
-                key={name}
-                className="w-64 rounded border-double border-2 border-lime-500 py-4 px-8 text-xl hover:bg-lime-500 hover:text-gray-950 focus:ring focus:ring-lime-50"
-              >
-                {name}
-              </button>
-            ))}
-          </div> */}
         </div>
       </section>
       <About />
